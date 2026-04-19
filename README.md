@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Aurorp1g?theme=moebooru">
 
-## 一只努力学习的程序猿 — Markvillainy <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
+## 一番良い方法は誰にも分からない — Markvillainy <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
 <!--  -->
 <p align="center">
