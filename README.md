@@ -3,7 +3,7 @@
 ## 一番良い方法は誰にも分からない — Markvillainy <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vP5gXvSXJ2olG/giphy.gif" width="300">
+  <img src="https://i.giphy.com/media/vP5gXvSXJ2olG/giphy.gif" width="300">
 </p>
 
 <p align="center">
