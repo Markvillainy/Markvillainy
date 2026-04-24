@@ -2,7 +2,10 @@
 
 ## 一番良い方法は誰にも分からない — Markvillainy <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
-<!--  -->
+<p align="center">
+  <img src="https://media.giphy.com/media/vP5gXvSXJ2olG/giphy.gif" width="300">
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378D16&width=435&lines=%3E+INITIALIZING+PSYCHE-OS...+%5BOK%5D;%3E+SEARCHING+FOR+SIGNAL+IN+THE+WIRED...;%3E+IP_ADDRESS%3A+127.0.0.1+(LOCAL_HOST);%3E+PROTOCOL%3A+OSPF_LAYER_3_AUTH;%3E+BRIDGING+NEURAL_GATEWAY...+%5BDONE%5D;%3E+SYNCING+DATA_STREAM%3A+0%25..+50%25..+100%25;%3E+USER%3A+%5BMARK%5D+IDENTIFIED.;%3E+STATUS%3A+PRESENT+DAY%2C+PRESENT+TIME...+HAHAHAHA.;%3E+CONNECTION+ESTABLISHED." alt="Typing SVG" /></a>
 </p>
